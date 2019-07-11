@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csproj", "{68FE24BB-ADAC-403D-B789-79F2C085D827}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppCore3", "WebAppCore3\WebAppCore3.csproj", "{B9BFF740-9541-4C93-BA17-C9389E45AD2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppCore3", "WebAppCore3\WebAppCore3.csproj", "{B9BFF740-9541-4C93-BA17-C9389E45AD2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
